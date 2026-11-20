@@ -57,78 +57,14 @@ User  ->  Interface (\[Streamlit/CLI/Flask])  ->  LangChain  ->  IBM Db2
 
 ## 6\. Project Structure
 
-```
+
 policypulse/
 ├── README.md
 ├── architecture.md
 ├── submission.json
-├── .env.example
-├── src/
-│   ├── \[main file, e.g. app.py]
-│   ├── \[other files]
-│   └── requirements.txt
-└── docs/
-    └── screenshots/
-```
 
-## 7\. Setup and Run Instructions
-
-**Prerequisites:** Python 3.\[X]+, access to an IBM Db2 instance, an API key for the LLM.
-
-1. Go to the project folder
-
-```
-   cd submissions/policypulse/src
-   ```
-
-2. Create a virtual environment
-
-```
-   python -m venv venv
-   venv\\Scripts\\activate        # Windows
-   source venv/bin/activate     # Mac/Linux
-   ```
-
-3. Install dependencies
-
-```
-   pip install -r requirements.txt
-   ```
-
-4. Configure environment variables: copy `.env.example` to `.env` and fill in your own values (never commit real keys).
-5. \[If needed: create tables / load sample data, e.g. `python setup\_db.py`]
-6. Run the app
-
-```
-   \[COMMAND, e.g. streamlit run app.py   or   python app.py]
-   ```
-
-## 8\. Screenshots
-
-|Screenshot|Description|
-|-|-|
-|!\[Home](docs/screenshots/01-home.png)|Home screen|
-|!\[Query](docs/screenshots/02-query.png)|Asking a question|
-|!\[Result](docs/screenshots/03-result.png)|Answer generated|
-|!\[Db2](docs/screenshots/04-db2.png)|Data in Db2|
-
-(Rename the image files to match what you upload.)
-
-## 9\. Demo Video
-
-\[PASTE YOUTUBE (UNLISTED) / GOOGLE DRIVE LINK HERE. Set Drive access to "Anyone with the link can view".]
-
-## 10\. Team and Contributions
-
-PolicyPulse was built by two team members who worked together. The overall idea, system design and architecture were created jointly by both of us, and both deserve equal credit for the design. Each member's individual contributions are listed separately below, as advised by the organisers.
-
-### Joint contribution (both members)
-
-* Came up with the idea and problem statement for PolicyPulse
-* Together designed the overall system and architecture (LangChain + IBM Db2 flow)
-* Planned the features and decided the tech stack
-
-### Aarya Joshi (GitHub: @Aarya21-ux)
+Created by -
+ Aarya Joshi (GitHub: @Aarya21-ux)
 
 ## 11\. Future Improvements
 
@@ -144,3 +80,4 @@ This project uses open-source libraries such as LangChain (MIT), \[other librari
 
 No real API keys or credentials are committed. Use `.env.example` as a reference and keep your keys in a local `.env` file.
 
+ 
