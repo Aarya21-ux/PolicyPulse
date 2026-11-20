@@ -1,0 +1,98 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1231 >>
+stream
+BT
+/F1 10 Tf
+48 755 Td
+14 TL
+(POLICYPULSE | EXPENSE COMPLIANCE AUDIT REPORT) Tj
+T*
+(Generated: 2026-11-09 23:27) Tj
+T*
+(========================================================================) Tj
+T*
+(EXECUTIVE SUMMARY) Tj
+T*
+(Transactions reviewed: 81) Tj
+T*
+(Policy violations: 7) Tj
+T*
+(Total spend: ?310,966) Tj
+T*
+(Total overspend: ?7,464) Tj
+T*
+(Possible duplicates: 1.0) Tj
+T*
+(Missing receipts: 12) Tj
+T*
+() Tj
+T*
+(RISK OVERVIEW) Tj
+T*
+(High risk: 4) Tj
+T*
+(Medium risk: 23) Tj
+T*
+(Low risk: 54) Tj
+T*
+() Tj
+T*
+(POLICY VIOLATIONS) Tj
+T*
+(#58 | Sneha | hotel | Amount ?11,259 | Limit ?8,000) Tj
+T*
+(#25 | Kabir | travel | Amount ?10,157 | Limit ?9,000) Tj
+T*
+(#37 | Meera | travel | Amount ?9,323 | Limit ?9,000) Tj
+T*
+(#14 | Sneha | hotel | Amount ?9,075 | Limit ?8,000) Tj
+T*
+(#16 | Sneha | hotel | Amount ?8,612 | Limit ?8,000) Tj
+T*
+(#43 | Sneha | meals | Amount ?2,863 | Limit ?2,000) Tj
+T*
+(#9 | Rohan | cab | Amount ?1,675 | Limit ?1,500) Tj
+T*
+() Tj
+T*
+(RECENT AI VERIFICATION RESULTS) Tj
+T*
+(No verification history available.) Tj
+T*
+() Tj
+T*
+(NOTE) Tj
+T*
+(Risk scores are transparent rule-based indicators, not a fraud determination.) Tj
+T*
+(This report reflects records available in Db2 at generation time.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1600
+%%EOF
