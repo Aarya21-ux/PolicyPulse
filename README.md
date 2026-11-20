@@ -130,22 +130,6 @@ PolicyPulse was built by two team members who worked together. The overall idea,
 
 ### Aarya Joshi (GitHub: @Aarya21-ux)
 
-* \[Implementation work, e.g. wrote the LangChain pipeline and application code]
-* \[e.g. Set up the Db2 connection / database layer]
-* \[e.g. Testing, setup instructions and documentation]
-* \[e.g. Prepared the repository, Pull Request and demo]
-
-### Amar Satpute (GitHub: @Amar-EXE2)
-
-* \[Individual work, e.g. prepared and structured the data / policy documents]
-* \[e.g. Worked on prompts / query logic / UI]
-* \[e.g. Testing and reporting issues, reviewing documentation]
-* \[e.g. Helped prepare the demo]
-
-(Fill the individual bullets with what each of you actually did, keeping them truthful.)
-
-Both team members have submitted the Google Form separately, using this same Pull Request, and will post about the project separately on LinkedIn.
-
 ## 11\. Future Improvements
 
 * \[Idea 1, e.g. Support more document types]
